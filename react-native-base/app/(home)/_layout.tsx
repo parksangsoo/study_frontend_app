@@ -5,7 +5,7 @@ export default function Index() {
     <Tabs>
       <Tabs.Screen name="index" />
       <Tabs.Screen name="more" />
-      <Tabs.Screen name="mypage" />
+      <Tabs.Screen name="(mypage)" />
     </Tabs>
   );
 }
