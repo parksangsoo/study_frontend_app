@@ -1,10 +1,10 @@
 import { Tabs } from "expo-router";
 import { Text } from "react-native";
 
-export default function More() {
+export default function Search() {
   return (
     <Tabs>
-      <Text>More</Text>
+      <Text>Search</Text>
     </Tabs>
   );
 }
